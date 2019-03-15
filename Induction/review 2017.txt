@@ -1,0 +1,10 @@
+I joined CGI in January of this year, spending my first few weeks at Wallace House completing induction orientation and all mandatory training before being deployed to the Scottish Government contract at Saughton House.
+
+An extremely steep learning curve was waiting me there and I quickly got to grips with Entitlements and Payments under the expert eye of Anand Sundaram. 
+Armed with this new knowledge I then started working on the calculation rules for the AECS and FGS Pillar 2 Payments. Here I have worked very closely with Chris Trotter (Business Analyst) and the Scottish Government Product Owners to understand the business requirements and transform them into a robust design for the development team to take forward.
+
+I have used many of my analytical skills to achieve this and even called on some long dormant detailed design skills to produce the level of documentation to pass both internal review and effect the formal hand-over to the development team.
+
+I have also been involved with assembling the necessary coding and data changes required for the AECS and FGS Submissions Rollover for 2017/18. This is very detailed work and required a good deal of collaboration with the Business Analyst and the SG Product Owners. The necessary documentation for this is nearing completion and is on target to be handed over for development.
+
+In summary I have enjoyed my first seven months with CGI and look forward to developing my knowledge of the SG client systems, but also of looking for opportunities for widening my skills and experience with the organisation.

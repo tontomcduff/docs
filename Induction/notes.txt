@@ -1,0 +1,16 @@
+StaffNo: 211143
+EMail: stewart.riddick@cgi.com
+Mobile: 07584 336 505
+
+Support: 08455 280 564
+
+Hub: P01
+EIG: 1913
+     19139919	
+Mob: 191301
+
+HRG: Travel4Work
+
+Flex:
+00211143
+P01
